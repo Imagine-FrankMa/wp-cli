@@ -50,6 +50,7 @@ module.exports = class Genetator {
 
     }
 
+    
     async download(repo,version){
         console.log('repo---',repo);
         console.log('version',version);
